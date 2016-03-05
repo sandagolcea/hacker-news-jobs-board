@@ -1,0 +1,31 @@
+{
+  "name": "hacker-news-jobs-board",
+  "version": "1.0.0",
+  "description": "hacker news job board beautifier",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandagolcea/hacker-news-jobs-board.git"
+  },
+  "keywords": [
+    "hacker",
+    "news",
+    "job",
+    "board",
+    "node",
+    "reactjs"
+  ],
+  "author": "Sanda Golcea, Jair Cazarin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandagolcea/hacker-news-jobs-board/issues"
+  },
+  "homepage": "https://github.com/sandagolcea/hacker-news-jobs-board#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
